@@ -124,3 +124,6 @@ echo "$uilasthack $uiwhen $clred$logfiltertime $creset$uiuser $clred$logfilterus
 echo "${0} $uilastcalled $cgreen$(date +%Y.%m.%d' ''('%A')',' '%H:%M:%S) $creset"
 
 #I plan on making the list/format/filter stuff all work from within variables, and datetime display depend on language settings.
+
+
+#https://github.com/mafia-007
